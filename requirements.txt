@@ -3,5 +3,5 @@ numpy==2.1.2
 pandas==2.2.3
 plotly==6.0.0
 prophet==1.1.6
-python-binance==1.0.28
+yfinance==0.2.54
 streamlit==1.42.2
