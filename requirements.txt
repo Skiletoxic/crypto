@@ -5,3 +5,4 @@ plotly==6.0.0
 prophet==1.1.6
 yfinance==0.2.54
 streamlit==1.42.2
+python-binance==1.0.28
